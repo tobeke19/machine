@@ -1,0 +1,2 @@
+# machine
+magic mirror
